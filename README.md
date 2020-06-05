@@ -1,4 +1,5 @@
-
+This is a modification of ayu-dark theme. Ayu-dark looks like kakoune desertx theme.
+----
 🌟🌟🌟 **Looking for a maintainer.** 🌟🌟🌟 This project needs your care and knowledge of VIM. Open an issue if you want to take that role.
 
 ![ayu-vim](http://i.imgur.com/7vnF4Na.png)
